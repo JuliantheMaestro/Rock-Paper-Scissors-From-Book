@@ -1,0 +1,1 @@
+This is a version of rock, paper, scissors that was solved without using a for loop or even a function which is usually what is expected with this exercise. This really showed me the power of logic statements. 
